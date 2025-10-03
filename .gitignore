@@ -1,0 +1,28 @@
+# Python キャッシュファイル
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境
+venv/
+.venv/
+env/
+ENV/
+
+# パッケージやビルド関連
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 環境変数ファイル
+.env
+
+# VS Code 設定
+.vscode/
+
+# その他ログ
+*.log
+
